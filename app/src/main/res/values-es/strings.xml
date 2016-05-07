@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Poker Stats</string>
+    <string name="IsRequired">" es requerido."</string>
+    <string name="LowerThan">" debe ser menor que "</string>
+    <string name="NotIntegerNumber">No es un número entero.</string>
+    <string name="SomethingIsHasFailed">Algo fué mal.</string>
+    <string name="TooManyPlayers">Demasiados jugadores, el límite es 10.</string>
+    <string name="ante">Apuesta inicial</string>
+    <string name="big_blind">Ciega grande</string>
+    <string name="calculate">¡Calcular!</string>
+    <string name="left_opponents">Oponentes restantes</string>
+    <string name="players">Jugadores</string>
+    <string name="small_blind">Ciega pequeña</string>
+    <string name="stack">Límite de dinero</string>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Poker Stats</string>
+    <string name="small_blind">Small Blind</string>
+    <string name="big_blind">Big Blind</string>
+    <string name="ante">Ante</string>
+    <string name="stack">Stack</string>
+    <string name="players">Players</string>
+    <string name="left_opponents">Left opponents</string>
+    <string name="calculate">Calculate</string>
+
+    <string name="CPR" translatable="false">CPR</string>
+    <string name="CSI" translatable="false">CSI</string>
+    <string name="PN" translatable="false">PN</string>
+</resources>
